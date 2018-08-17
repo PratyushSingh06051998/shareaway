@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "137035844726",
+    "firebase_url": "https://shareaway-e66ec.firebaseio.com",
+    "project_id": "shareaway-e66ec",
+    "storage_bucket": "shareaway-e66ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137035844726:android:cca79facc6ec31d1",
+        "android_client_info": {
+          "package_name": "com.example.pratyushsingh.shareaway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137035844726-975efi8pheo2q79nj8k6qhkpjkprpsa8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pratyushsingh.shareaway",
+            "certificate_hash": "7bda30b0b460f9db4e27160be7418091d1523c5a"
+          }
+        },
+        {
+          "client_id": "137035844726-1ioqg549r3gps3po54g56mlk6i2mj8ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaKDY75Xy4NnPQ2x8hnsyeN6-DYA04rpI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137035844726-1ioqg549r3gps3po54g56mlk6i2mj8ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
